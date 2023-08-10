@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Hi, I am a computer science student at Northeastern University. I built these projects throughout my time as a student. This website displays my past and current projects.
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+To access my website click this link: https://britneyio.github.io/portfolio/
+
+To access other interesting projects of mine you can look through my github.
